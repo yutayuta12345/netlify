@@ -1,1 +1,3 @@
 User-agent: *
+
+sitemap:https://matchinfo.pages.dev/sitemap.xml
