@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://matchinfo.pages.dev/amazon_drink.html</loc>
+  </url>
+  <url>
+    <loc>https://matchinfo.pages.dev/amazon_kaden.html</loc>
+  </url>
+  <url>
+    <loc>https://matchinfo.pages.dev/amazon_kindle.html</loc>
+  </url>
+  <url>
+    <loc>https://matchinfo.pages.dev/amazon_pc.html</loc>
+  </url>
+  <url>
+    <loc>https://matchinfo.pages.dev/amazon_sumaho.html</loc>
+  </url>
+  <url>
     <loc>https://matchinfo.pages.dev/casino.html</loc>
   </url>
   <url>
@@ -26,6 +41,9 @@
   </url>
   <url>
     <loc>https://matchinfo.pages.dev/newlife.html</loc>
+  </url>
+  <url>
+    <loc>https://matchinfo.pages.dev/products.html</loc>
   </url>
   <url>
     <loc>https://matchinfo.pages.dev/vtuber.html</loc>
